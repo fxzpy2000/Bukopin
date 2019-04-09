@@ -1,8 +1,5 @@
 *-----------------------------------------------------------------------------
     SUBROUTINE ATI.ES.GEN.XML.EMAIL(Y.ES.ID, Y.MAPPING, Y.TO, Y.APP, Y.APP.ID, R.APP, Y.XML.MESSAGE, Y.ERROR)
-	
-	JFT
-	JFT
 *-----------------------------------------------------------------------------
 * Developer Name     : ATI Juan Felix
 * Development Date   : 20170713
